@@ -1,6 +1,10 @@
 # anime-three
 This was created during my time as a student at Code Chysalis.
 
+## Technology I used 
+[Three.js](https://threejs.org/)
+[Anime.js](https://animejs.com/)
+
 ## References
 
 Most of this repository is based on these tutorials and they are really helpful!
