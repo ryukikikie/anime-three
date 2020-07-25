@@ -1,6 +1,6 @@
 # anime-three
 This was created during my time as a student at Code Chysalis.
-Presentation using content in this repo -> https://www.youtube.com/watch?v=5yNct7D4b9s
+Check my resentation using content in this repo -> https://youtu.be/5yNct7D4b9s?t=5656
 
 ## Technology I used 
 [Three.js](https://threejs.org/)
